@@ -1,0 +1,44 @@
+[
+  {
+    "batch": "9",
+    "githubLogin": "darrelltzj",
+    "project1": {
+      "repoName": "wdi-project-1-darrelltzj",
+      "deployedUrl": "https://wdi-sg.github.io/wdi-project-1-darrelltzj/",
+      "previewImage": "http://i.imgur.com/J6llArR.jpg"
+    },
+    "project2": {
+      "repoName": "theRyanJoleneProject",
+      "deployedUrl": "https://ryanjolene.herokuapp.com/login",
+      "previewImage": "https://media.giphy.com/media/3og0IwdFzr8FtedeI8/giphy.gif"
+    },
+    "project3": {
+      "repoName": "wdi-project-3-there_is_no_i",
+      "deployedUrl": "https://locavorusrex.herokuapp.com/",
+      "previewImage": "http://i.imgur.com/6EEMrSy.png",
+      "collaborators": ["noll-fyra", "imouto2005"]
+    }
+  },
+
+  {
+    "batch": "9",
+    "githubLogin": "imouto2005",
+    "project1": {
+      "repoName": "wdi-project-1-imouto2005",
+      "deployedUrl": "https://imouto2005.github.io/wdi-project-1-imouto2005/",
+      "previewImage": "https://media.giphy.com/media/xUA7aQpZCNser7UP1C/giphy.gif"
+    },
+    "project2": {
+      "repoName": "wdi-project-2",
+      "deployedUrl": "https://wdi-project-2-imouto2005.herokuapp.com/",
+      "previewImage": "https://media.giphy.com/media/3og0ILZaFm0GieqREI/giphy.gif"
+    },
+    "project3": {
+      "repoName": "wdi-project-3-there_is_no_i",
+      "deployedUrl": "https://locavorusrex.herokuapp.com/",
+      "previewImage": "http://i.imgur.com/6EEMrSy.png",
+      "collaborators": ["noll-fyra", "darrelltzj"]
+    }
+  }
+
+]
